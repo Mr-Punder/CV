@@ -1,2 +1,2 @@
 
-[![preview](./docs/preview.png)](./docs/myfile.pdf)
+[![preview](CV.png)](Vovk_Backend_Developer.pdf)
